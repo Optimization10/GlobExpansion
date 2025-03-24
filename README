@@ -3,11 +3,10 @@ This program demonstrates that file extension affects globbing behavior in bash
 To execture the entire program, simply type make
 
 ######## Detailed Explanation ##################################################
-The mtx folder only contains files with .mtx extension. The roa folder is
-initially empty.
+The mtx folder only contains files with .mtx extension.
 
-First, all files from mtx are copied into roa, but their extension is changed
-to from .mtx to .roa
+First, an empty folder called roa is crated. All files from mtx are copied into
+roa, but their extension is changed to from .mtx to .roa
 
 Next, two csv files (mtxNames.csv and roaNames.csv) are created:
 
