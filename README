@@ -1,6 +1,6 @@
 This program demonstrates that file extension affects globbing behavior in bash
 
-To execture the entire program, simply type make
+To execute the entire program, simply type make
 
 ######## Detailed Explanation ##################################################
 The mtx folder only contains files with .mtx extension.
